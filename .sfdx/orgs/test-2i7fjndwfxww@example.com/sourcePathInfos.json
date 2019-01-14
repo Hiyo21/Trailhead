@@ -2,14 +2,14 @@
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1546956851229,
+            "modifiedTime": 1546960343817,
             "changeTime": 1546956851229,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546956851229,
             "changeTime": 1546956851229,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,187 +32,1017 @@
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1546957922000,
-            "changeTime": 1546957922000,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1546962358667,
+            "changeTime": 1546962358667,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1546956851229,
-            "changeTime": 1546956851229,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1546962704391,
+            "changeTime": 1546962704391,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1546957097365,
-            "changeTime": 1546957097365,
-            "contentHash": "ca1681724416662231b7fa52c2d30555107e95fd",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1546961992510,
+            "changeTime": 1546961992510,
+            "contentHash": "71fa748b81aee9e80894fcaca7d8e2739bf692c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1546957921974,
             "changeTime": 1546957921974,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1546957921981,
             "changeTime": 1546957921981,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1546957921987,
             "changeTime": 1546957921987,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1546957921992,
             "changeTime": 1546957921992,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1546957921996,
             "changeTime": 1546957921996,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1546957922001,
             "changeTime": 1546957922001,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546957921974,
             "changeTime": 1546957921974,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546957921973,
             "changeTime": 1546957921973,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546957921973,
             "changeTime": 1546957921973,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546957921996,
             "changeTime": 1546957921996,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1546957922000,
             "changeTime": 1546957922000,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546960483076,
+            "changeTime": 1546960483076,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 329,
+            "modifiedTime": 1546960483068,
+            "changeTime": 1546960483076,
+            "contentHash": "2dc7e8fcf16e5d9572ca9b6f4c2c83745a815664",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1546960458805,
+            "changeTime": 1546960458805,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962522107,
+            "changeTime": 1546960631610,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546960576594,
+            "changeTime": 1546960576594,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1546962522100,
+            "changeTime": 1546962522107,
+            "contentHash": "7cfb388317220ad0f1117caf947050799c089bbd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1546960576581,
+            "changeTime": 1546960576581,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 123,
+            "modifiedTime": 1546960631603,
+            "changeTime": 1546960631609,
+            "contentHash": "251aff54dc3d80eb2737c6ba853cad85531e3a00",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1546960576595,
+            "changeTime": 1546960576595,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1546960576593,
+            "changeTime": 1546960576593,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1546960576582,
+            "changeTime": 1546960576582,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1546960576583,
+            "changeTime": 1546960576583,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1546960576592,
+            "changeTime": 1546960576592,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1546960830064,
+            "changeTime": 1546960830064,
+            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4679,
+            "modifiedTime": 1546960830069,
+            "changeTime": 1546960830069,
+            "contentHash": "cc0d888cae1e06cab8c21ec4d391eeb169ecf45d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5015,
+            "modifiedTime": 1546960830074,
+            "changeTime": 1546960830074,
+            "contentHash": "2106b2272baa298aa561602b5fe6c5c10a04fcfa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18198,
+            "modifiedTime": 1546960830085,
+            "changeTime": 1546960830085,
+            "contentHash": "707d377c47792b35736b90bfd6f5592a0d1e4e30",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4675,
+            "modifiedTime": 1546960830089,
+            "changeTime": 1546960830089,
+            "contentHash": "5b20f36da0113975d0d29d99cb2bbb0ca271a58c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546960830063,
+            "changeTime": 1546960830063,
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546960830088,
+            "changeTime": 1546960830088,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962780115,
+            "changeTime": 1546961144049,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546960874769,
+            "changeTime": 1546960874769,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546960890322,
+            "changeTime": 1546960890322,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 556,
+            "modifiedTime": 1546962761012,
+            "changeTime": 1546962761023,
+            "contentHash": "95d66adc425afc6ae7b7df177f2a53f7c2cd60c6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1546960890314,
+            "changeTime": 1546960890314,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 110,
+            "modifiedTime": 1546961345995,
+            "changeTime": 1546961346007,
+            "contentHash": "bcc35e5a26f8a2de351b81d7de390702d4d16c0f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1546960890324,
+            "changeTime": 1546960890324,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1546960890321,
+            "changeTime": 1546960890321,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1546962780108,
+            "changeTime": 1546962780114,
+            "contentHash": "e9708fe0e6ded8e8e4fd35e85b2ba862c53a5c15",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1546960890317,
+            "changeTime": 1546960890317,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1546960890320,
+            "changeTime": 1546960890320,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1546960854338,
+            "changeTime": 1546960854338,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 124,
+            "modifiedTime": 1546960867018,
+            "changeTime": 1546960867036,
+            "contentHash": "bd81244eedf31aa8868729c6eae363e5e38d8a5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1546960854327,
+            "changeTime": 1546960854327,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1546960874763,
+            "changeTime": 1546960874768,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1546960854340,
+            "changeTime": 1546960854340,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1546960854336,
+            "changeTime": 1546960854336,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1546960854329,
+            "changeTime": 1546960854329,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1546960854330,
+            "changeTime": 1546960854330,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1546960854334,
+            "changeTime": 1546960854334,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1546962358668,
+            "changeTime": 1546962358668,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1546962358745,
+            "changeTime": 1546962358745,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1546962358746,
+            "changeTime": 1546962358746,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1546962358748,
+            "changeTime": 1546962358748,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1546962358750,
+            "changeTime": 1546962358750,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1546962358752,
+            "changeTime": 1546962358752,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 401270,
+            "modifiedTime": 1546962358754,
+            "changeTime": 1546962358754,
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 764787,
+            "modifiedTime": 1546962358756,
+            "changeTime": 1546962358756,
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 402995,
+            "modifiedTime": 1546962358760,
+            "changeTime": 1546962358760,
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 764879,
+            "modifiedTime": 1546962358762,
+            "changeTime": 1546962358762,
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14106,
+            "modifiedTime": 1546962358765,
+            "changeTime": 1546962358765,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 141125,
+            "modifiedTime": 1546962358767,
+            "changeTime": 1546962358767,
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 192417,
+            "modifiedTime": 1546962358769,
+            "changeTime": 1546962358769,
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962358743,
+            "changeTime": 1546962358743,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962358751,
+            "changeTime": 1546962358751,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962358768,
+            "changeTime": 1546962358768,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962812258,
+            "changeTime": 1546962507545,
+            "contentHash": "c4dc0bc29ea6b55aed49be761ac539edd5f3bdea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1546962802708,
+            "changeTime": 1546962802713,
+            "contentHash": "4a08a4a4ae45abe69130d27864a8ea29195a14fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1546962400031,
+            "changeTime": 1546962400035,
+            "contentHash": "ffc1f1325cff753fc5e85c64c1b260a4759b5532",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 844,
+            "modifiedTime": 1546962812251,
+            "changeTime": 1546962812258,
+            "contentHash": "20e422878ae1e7f6594a8222b6ce2db21574eccb"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 93,
+            "modifiedTime": 1546962507539,
+            "changeTime": 1546962507545,
+            "contentHash": "90e783e345f5f51946ef726bda068d774774cb86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546962717666,
+            "changeTime": 1546962717666,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1546962717648,
+            "changeTime": 1546962717665,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\shoon\\git\\Trailhead\\geolocation\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1546962704393,
+            "changeTime": 1546962704393,
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
