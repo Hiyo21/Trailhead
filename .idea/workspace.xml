@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c0f095d-622a-4b24-9149-7539e680b8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.cmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.cmp-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMapController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-2i7fjndwfxww@example.com/maxrevision.json" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-2i7fjndwfxww@example.com/maxrevision.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sfdx/orgs/test-2i7fjndwfxww@example.com/sourcePathInfos.json" beforeDir="false" afterPath="$PROJECT_DIR$/.sfdx/orgs/test-2i7fjndwfxww@example.com/sourcePathInfos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/geolocation/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/geolocation/OfflineSymbolTable.zip" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,8 +18,141 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/classes/AccountController.cls">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocator.cmp">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountsLoaded/AccountsLoaded.evt">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.cmp">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountListItem/AccountListItem.cmp">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.css">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMapController.js">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.cmp">
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountListController.js">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.css">
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+          <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+          <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lightning Component" />
+        <option value="Apex Metadata" />
+        <option value="Lightning Controller" />
+        <option value="Lightning Web Component CSS" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/geolocation/main/default/classes/AccountController.cls" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocator.css" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountListItem/AccountListItem.css" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.css" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountListItem/AccountListItem.cmp" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.css" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocator.cmp" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountsLoaded/AccountsLoaded.evt" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.cmp" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountListController.js" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.cmp" />
+        <option value="$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMapController.js" />
+      </list>
+    </option>
   </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="moduleWorkspaceSettings">
@@ -25,6 +165,21 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="apexLogLevel" value="FINEST" />
+            <option name="documentText" value="Account a = new Account();&#10;a.Name = 'Marriott Marquis';&#10;a.Location__Latitude__s = 37.785143;&#10;a.Location__Longitude__s = -122.403405;&#10;&#10;Account b = new Account();&#10;b.Name = 'Hilton Union Square';&#10;b.Location__Latitude__s = 37.786164;&#10;b.Location__Longitude__s = -122.410137;&#10;&#10;Account c = new Account();&#10;c.Name = 'Hyatt';&#10;c.Location__Latitude__s = 37.794157;&#10;c.Location__Longitude__s = -122.396311;&#10;&#10;insert a;&#10;insert b;&#10;insert c;" />
+          </AnonymousApexSettings>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="documentText" value="SELECT Id, Name, Location__Latitude__s, Location__Longitude__s&#10;FROM Account&#10;WHERE Location__Latitude__s != NULL AND Location__Longitude__s !=&#10;        NULL&#10;LIMIT 50" />
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -42,29 +197,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="geolocation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trailhead" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geolocation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trailhead" type="462c0819:PsiDirectoryNode" />
-              <item name="IlluminatedCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546963041107" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice_workspace/Gradle_Practice/Spring_MVC_Practice/.idea" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -134,24 +275,25 @@
       <updated>1546956846841</updated>
       <workItem from="1546956857708" duration="144000" />
       <workItem from="1546957002573" duration="93000" />
-      <workItem from="1546957099345" duration="1963000" />
+      <workItem from="1546957099345" duration="2229000" />
+      <workItem from="1546959523883" duration="3641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2200000" />
+    <option name="totallyTimeSpent" value="6107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="8" width="1734" height="1417" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Illuminated Cloud" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -161,12 +303,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Log Viewer" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5011947" side_tool="true" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50179213" side_tool="true" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="10" sideWeight="0.65232974" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="SOQL Query" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49880525" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" sideWeight="0.49940264" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.4982079" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -180,6 +323,133 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocatorRenderer.js">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountListItem/AccountListItem.css">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocator.css">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.design">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.css">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountListItem/AccountListItem.cmp">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.css">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/classes/AccountController.cls">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.MetadataFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountLocator/AccountLocator.cmp">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountsLoaded/AccountsLoaded.evt">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountList.cmp">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountList/AccountListController.js">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningRendererFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningSvgFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDocumentationFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningHelperFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningDesignFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMap.cmp">
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geolocation/main/default/aura/AccountMap/AccountMapController.js">
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningMarkupFileEditorProvider" />
+      <provider selected="true" editor-type-id="com.illuminatedcloud.intellij.editor.LightningControllerFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.LightningStyleFileEditorProvider" />
+      <provider editor-type-id="com.illuminatedcloud.intellij.editor.MetaXmlFileEditorProvider" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
